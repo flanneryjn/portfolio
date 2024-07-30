@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Java, Torch, C++
 
 ## Education
-- MSc., Computational Neuroscience | Humboldt Universität zu Berlin & Technical University Berlin (_September 2024_)	 					       		
-- B.S., Mathematics, Computer Science and Music Minors | University of Arkansas (_May 2017_)
+MSc., Computational Neuroscience | Humboldt Universität zu Berlin & Technical University Berlin (_September 2024_)	 					       		
+B.S., Mathematics, Computer Science and Music Minors | University of Arkansas (_May 2017_)
 
 ## Projects
 ### Encoding, Decoding, and Manifold Nonlinearity Analysis of Mouse Motor Cortex and Thalamus
