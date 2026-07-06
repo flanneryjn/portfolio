@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Java, Torch, C++
 
 ## Currently
-**Machine Learning Engineer @ [AristanderAI](https://aristander.ai) — Berlin (_Feb 2025 - Present_)**
+**Machine Learning Engineer @ Aristander AI — Berlin (_Feb 2025 - Present_)**
 Building production **reinforcement learning** and **LLM**-based dynamic pricing systems. Highlights:
 - Designed and deployed a **Double Q-Learning** pricing agent that dynamically prices thousands of airline flights in production
 - Built a hotel / vacation-rental pricing system combining **LLMs** with classical ML in **Python**
