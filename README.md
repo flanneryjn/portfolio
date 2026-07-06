@@ -1,6 +1,19 @@
-# Computational Neuroscience Project Portfolio
+# Machine Learning Project Portfolio
 
 #### Technical Skills: Python, SQL, Java, Torch, C++
+
+## Currently
+**Machine Learning Engineer @ [AristanderAI](https://aristander.ai) — Berlin (_Feb 2025 - Present_)**
+Building production **reinforcement learning** and **LLM**-based dynamic pricing systems. Highlights:
+- Designed and deployed a **Double Q-Learning** pricing agent that dynamically prices thousands of airline flights in production
+- Built a hotel / vacation-rental pricing system combining **LLMs** with classical ML in **Python**
+- Sole point of contact for a key client, with full ownership of the project end to end
+
+_(Full details under [Work Experience](#work-experience) below.)_
+
+## Education
+- MSc., Computational Neuroscience | Humboldt U. & Technical U. Berlin (_Sep 2024_)	 					       		
+- B.S., Math, C.S. & Music Minors | University of Arkansas (_May 2017_)
 
 ## Education
 - MSc., Computational Neuroscience | Humboldt U. & Technical U. Berlin (_Sep 2024_)	 					       		
@@ -41,7 +54,16 @@ Used Natural Language Processing approaches for automated summarization of docum
 ![Extraction Pipeline](/assets/img/summarization_pipeline.png)
 
 ## Work Experience
-**Masters Lab Rotation Work and Thesis @ Charité University Medicine (_Dec 2023 - Present_)**
+## Work Experience
+**Machine Learning Engineer @ AristanderAI - Berlin (_Feb 2025 - Present_)**
+- Designed and deployed a **reinforcement learning** pricing agent using **Double Q-Learning** to dynamically price thousands of airline flights in production
+- Built a dynamic pricing system for the hotel / vacation-rental space, combining **LLMs** with classical ML methods in **Python** (developed with **Claude Code**)
+- Sole technical point of contact for a key client: owned the project end to end, gathered requirements, and interfaced directly with the client
+- Set up continuous deployment and automated testing through **GitLab CI/CD**, running containerized (**Docker**) nightly batch inference pipelines backed by **PostgreSQL**
+- Wore many hats in a startup environment: debugged **Django** backend and frontend transfer-protocol issues, and built **Grafana** monitoring with alerts that surface automatically in **Slack**
+
+
+**Masters Lab Rotation Work and Thesis @ Charité University Medicine (_Dec 2023 - Dec 2024_)**
 - Created a python tool to automate graph feature extraction from fMRI datasets both with an anatomical brain-atlas and an Independent Component Analysis (ICA) brain-atlas. Used convolutional neural networks for target variable prediction on brain data. Coded in Python, with PyTorch.
 - Analyzed extracellular spikes in mouse brain, looking at 1) behavioral decoding 2) behavioral encoding kernels and 3) nonlinearity of neural manifold in different brain regions. Presented as a poster at the Bernstein Conference 2023. Also trained on biological surgical procedures for wet lab work. Coded in Python.
 
