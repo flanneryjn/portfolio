@@ -73,9 +73,6 @@ Used Natural Language Processing approaches for automated summarization of docum
 - Reporting: I served stakeholders inside and outside the library by providing them speedy reporting when requested, and also maintained weekly reporting on various library statistics and played a key part in yearly audit reporting. I often curated ad-hoc reporting with insights and visuals from Tableau, or in Python when custom visuals were requested.
 - Data curation: I worked on a task force that cleaned and curated library data, improving records using a plethora of methods, sometimes through simple SQL work, sometimes writing web crawlers to check links are functional, sometimes through writing more complex Python code for systematic cleaning.
 
-**ESL Assistant Teacher @ Carmen Conde Bilingual Primary School - Leganés (_Oct 2017 - Jul 2018_)**
-- Taught ESL both in lectures to classrooms and tutoring small groups of higher need students, primarily teaching 2nd grade where both English and Science are taught in English
-
 **Math Researcher (Undergrad REU) - University of California, Los Angeles (_Jun 2017 - Aug 2017_)**
 - Project done in conjunction with Los Alamos National Labs and presented both on site in national labs and via webcast
 - Used graph theory to model molecules in ways that best preserve structure when materials (generally periodic nano-particles) are heated and cooled
